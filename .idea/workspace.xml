@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="820a45e2-f4fd-4284-b974-3f54049f8723" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop and Condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loop and Condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonFunction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Loop and Condition">
+  <component name="RunManager" selected="Python.PythonFunction">
     <configuration name="LogicalProgram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="KoneQuizProgram" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,6 +67,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loop and Condition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PythonFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KoneQuizProgram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonFunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,6 +140,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PythonFunction" />
         <item itemvalue="Python.Loop and Condition" />
         <item itemvalue="Python.LogicalProgram" />
         <item itemvalue="Python.QuizGame" />
@@ -170,19 +192,27 @@
       <option name="project" value="LOCAL" />
       <updated>1599556311159</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Logical Code syntax">
+      <created>1599559584723</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599559584723</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LogicalProgram" />
     <MESSAGE value="Datatypes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Datatypes" />
+    <MESSAGE value="Logical Code syntax" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logical Code syntax" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599556308084">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599559581277">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599556308084" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599559581277" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1599548798444">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -191,30 +221,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="281" width="356" height="166" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1599307592620" />
-    <state width="1345" height="229" key="GridCell.Tab.0.bottom" timestamp="1599559419556">
+    <state width="1345" height="229" key="GridCell.Tab.0.bottom" timestamp="1599560508928">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="229" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599559419556" />
-    <state width="1345" height="229" key="GridCell.Tab.0.center" timestamp="1599559419556">
+    <state width="1345" height="229" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599560508928" />
+    <state width="1345" height="229" key="GridCell.Tab.0.center" timestamp="1599560508928">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="229" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599559419556" />
-    <state width="1345" height="229" key="GridCell.Tab.0.left" timestamp="1599559419556">
+    <state width="1345" height="229" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599560508928" />
+    <state width="1345" height="229" key="GridCell.Tab.0.left" timestamp="1599560508928">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="229" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599559419556" />
-    <state width="1345" height="229" key="GridCell.Tab.0.right" timestamp="1599559419556">
+    <state width="1345" height="229" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599560508928" />
+    <state width="1345" height="229" key="GridCell.Tab.0.right" timestamp="1599560508928">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="229" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599559419556" />
+    <state width="1345" height="229" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599560508928" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1599304008670">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599304008670" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1599556320170">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1599559587332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599556320170" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599559587332" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1599548597533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
