@@ -20,9 +20,9 @@ GreetMe(" Vinodhbalaji")
 
 
 def AddInteger(a, b):
-    print(a+b)
+    return a+b
     # To Call Function with parameter:
 
 
-AddInteger(3, 5)
+print(AddInteger(3, 5))
 
